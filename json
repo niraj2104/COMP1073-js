@@ -1,0 +1,10 @@
+{
+  "flavor": "Pistachio",
+  "description": "A creamy pistachio flavored ice cream with chunks of pistachios mixed in.",
+  "image": "img/pistachio.jpg"
+},
+{
+  "flavor": "Mango",
+  "description": "A tropical ice cream made with fresh mango puree and a hint of lime.",
+  "image": "img/mango.jpg"
+}
